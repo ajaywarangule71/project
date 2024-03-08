@@ -1,0 +1,17 @@
+body {
+  background-image: url(images/Company-logo-on-3d-glass-window-1536x864.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  padding: 20px;
+}
+
+.container {
+  background-color: rgba(255, 255, 255, 0.8); 
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.card {
+  margin-top: 20px;
+}
